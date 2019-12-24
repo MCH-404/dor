@@ -15,7 +15,7 @@ unzip dor.zip <br>
 python2 dor.py <br>
 Masukan ID facebook target repot <br>
 Max 20 report
- <br>
+<br>
 jika belum tahu ID target bisa cek di web cek FBI <br>
 https://findmyfbid.com/ <br>
 Selanjutnya tekan find numeric ID

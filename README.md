@@ -14,7 +14,6 @@ cd dor <br>
 unzip dor.zip <br>
 python2 dor.py <br>
 Masukan ID facebook target repot <br>
- <br>
 Max 20 report
  <br>
 jika belum tahu ID target bisa cek di web cek FBI <br>

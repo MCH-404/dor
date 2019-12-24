@@ -13,8 +13,8 @@ git clone https://github.com/MCH-404/dor <br>
 cd dor <br>
 unzip dor.zip <br>
 python2 dor.py <br>
-Masukan ID facebook target repot <br>
-Max 20 report
+Masukan ID facebook target report <br>
+Max 20 report <br>
 <br>
 jika belum tahu ID target bisa cek di web cek FBI <br>
 https://findmyfbid.com/ <br>

@@ -8,12 +8,14 @@ pkg install figlet <br>
 pkg install unzip <br>
 pip2 install mechanize <br>
  <br>
-git clone https://github.com/MCH-404/ReportFB-V1 <br>
+git clone https://github.com/MCH-404/dor <br>
  <br>
-cd ReportFB-V1 <br>
-unzip Report.zip <br>
-python2 Report.py <br>
+cd dor <br>
+unzip dor.zip <br>
+python2 dor.py <br>
 Masukan ID facebook target repot <br>
+ <br>
+Max 20 report
  <br>
 jika belum tahu ID target bisa cek di web cek FBI <br>
 https://findmyfbid.com/ <br>
